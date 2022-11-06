@@ -1,4 +1,6 @@
-# Hello there is this my user interface practice using pyqt5
+# Hello there! 
+
+### This my user interface practice using pyqt5
 
 <img src="main.jpeg">
 
@@ -25,3 +27,5 @@ https://doc.qt.io/qtforpython-5/
 ## Youtube reference videos
 
 https://youtube.com/playlist?list=PLCC34OHNcOtpmCA8s_dpPMvQLyHbvxocY
+
+
