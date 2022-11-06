@@ -4,19 +4,23 @@
 
 ## A brief about pyqt5
 
-  This is all in python language 
+    1. This is all in python language 
 
-  classes and objects are used
-  
-  Easy to understand
+    2. classes and objects are used
+    
+    3. Easy to understand
   
 ## Basic things to install before
 
 Enter this commands in terminal
 
-  pip install pyqt5
-  
-  pip install desiner
+First Install QT
+
+    pip install pyqt5
+
+Then install it's designer
+
+    pip install designer
   
 ## QT python docs
 
